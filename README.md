@@ -1,6 +1,6 @@
 # LLMbench: Unified LLM Benchmark Execution Framework
 
-**LLMbench** is a modular, cross-platform CLI-driven framework for executing large language model (LLM) benchmarks. It abstracts the deployment and execution complexity of standard and custom benchmark suites using a unified gRPC-based architecture.
+**LLMbench** is a modular, cross-platform CLI-driven framework written in go-lang for executing large language model (LLM) benchmarks. It abstracts the deployment and execution complexity of standard and custom benchmark suites using a unified gRPC-based architecture. It can be used in go-lang desktop/server applications exposing it's own APIs for benchmarks management
 
 ![Architecture Diagram](diagrams/main.drawio.png)
 
