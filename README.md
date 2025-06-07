@@ -2,6 +2,8 @@
 
 **LLMbench** is a modular, cross-platform CLI-driven framework for executing large language model (LLM) benchmarks. It abstracts the deployment and execution complexity of standard and custom benchmark suites using a unified gRPC-based architecture.
 
+![Architecture Diagram](diagrams/main.drawio.png)
+
 ---
 
 ## 🧠 Key Features
